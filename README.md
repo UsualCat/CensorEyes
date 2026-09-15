@@ -3,6 +3,12 @@
 CensorEyes is a real-time, multi-chain tracker that monitors blacklisted stablecoin addresses on Ethereum and TRON networks. It sends instant notifications to your Discord server or Telegram chat whenever a wallet holding assets gets frozen by centralized issuers like Tether (USDT) or Circle (USDC).
 
 CensorEyes promotes decentralization by bringing awareness to frozen assets and encouraging alternatives like Monero (XMR).
+Discord screenshots:
+<img width="875" height="462" alt="Discord" src="https://github.com/user-attachments/assets/3b20da15-d66c-4c6e-94fc-972f951b7aa1" />
+Telegram Screenshots:
+<img width="500" height="385" alt="telegram" src="https://github.com/user-attachments/assets/6e4fff47-cb78-43b7-858c-971d89598c62" />
+
+
 
 ---
 

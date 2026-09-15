@@ -72,3 +72,17 @@ php patch.php
 ## ⚖️ License
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**. 
 You are free to use and modify this code, but if you run a modified version on a server or distribute it, you **MUST** publish your modified source code.
+
+---
+
+## 📞 Contact & Support
+
+**UsualCat**
+- **XMPP**: `usualcat@conversations.im`
+- **SimpleX**: [Connect on SimpleX](https://smp18.simplex.im/a#0qc8LlxiwdE-KIINXq7rIlLK_sRzeVMWZI7TX_i3wCg)
+
+If you find this project useful, consider supporting it:
+**Monero (XMR) Donation Address**:
+```text
+8BT57yki3zG5KAB8NA2dzNcMvT5f6xuqbGTwShw7rQeiij6dRFeSwwWAEZoGEVPQbRbNun2SQdePnYGuAvh8jM2zEN5FzKc
+```
